@@ -19,7 +19,7 @@ public class MoveTest {
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         f.setSize(800, 600);
         f.setVisible(true);
-        f.setResizable(true);
+        f.setResizable(true);   //Ich wollte, dass man das Fenster auch größer machen kann
         
         
         while(true){
